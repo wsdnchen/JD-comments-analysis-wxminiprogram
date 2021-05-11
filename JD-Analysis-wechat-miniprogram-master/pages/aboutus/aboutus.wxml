@@ -4,10 +4,10 @@
             <view class="page__desc">Developer information：</view>
         </view>
         <view class="page__hd" style="width: 750rpx; height: 368rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">
-            <view class="page__title"></view>
+            <view class="page__title">xxxxx</view>
             <view class="page__desc">DAIYAYUAN</view>
-            <view class="page__desc"></view>
-            <view class="page__desc"></view>
+            <view class="page__desc">xxxxx</view>
+            <view class="page__desc">xxxxx</view>
         </view>
 </view>
 
